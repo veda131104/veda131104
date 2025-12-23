@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Web Development and Computer Vision projects<br>👯 I’m looking to collaborate on small to medium projects<br>🤝 I’m looking for help with writing clean and optimised code <br>🌱 I’m currently learning cloud environments, backend development and LLMs<br>💬 Ask me about Web development, AI/ML basics, academic projects, and internships<br>⚡ Fun fact: I have published many research papers, completed 2 internships and am working on many book chapters
+🔭 I’m currently working on Web Development and Computer Vision projects<br>👯 I’m looking to collaborate on small to medium projects<br>🤝 I’m looking for help with writing clean and optimised code <br>🌱 I’m currently learning cloud environments, backend development and LLMs<br>💬 Ask me about Web development, AI/ML basics, academic projects, and internships<br>
 
 
 ## 🌐 Socials:
