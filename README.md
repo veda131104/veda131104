@@ -16,3 +16,18 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=veda131104&icon=1&color=1)](https://visitcount.itsvg.in)
+
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=veda131104&theme=dark&hide_border=true&include_all_commits=true&count_private=false" />
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=veda131104&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veda131104&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" />
+</p>
+
